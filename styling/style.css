@@ -8,4 +8,31 @@ table, th, td {
   }
 .image1{
     margin-right: 1rem;
+    padding-top: 2em;
+}
+#left{
+    padding-top: 2em;
+    border-right: 1px solid #666;
+}
+#middle{
+    padding: 1em;
+}
+#Ul_element {
+    border: 1px solid #666;
+    display: table;
+    overflow:hidden;
+    height:2%;
+    padding-right: 1em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+h3{
+    text-align: center;
+}
+p {
+    font-size: 1.125em;
+    line-height: 1.4em;
+}
+ul{
+    list-style-type:none
 }
